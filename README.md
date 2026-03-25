@@ -15,6 +15,6 @@ Modelling of the cone volume using the Monte Carlo method and python numpy libra
 * **[Monte_Carlo_cone.pdf](./Monte_Carlo_cone.pdf)** - **Full project report and results.**
 
 ## 🚀 Quick Start
-**git clone https://github.com/Gregir121/MC_SNIEZKO.git**
-**pip install requirements.txt**
-**python code/Numpy_integral.py**
+* **git clone https://github.com/Gregir121/MC_SNIEZKO.git**
+* **pip install requirements.txt**
+* **python code/Numpy_integral.py**
